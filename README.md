@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a Physicist that used specialized in Magnetosphere physics. Now, I look to other projects in the form of machine learning, simulations, and even video game development!
+
+Here are some of my projects:
+
+## Gamejam Games - competitions of various lengths and requirements:
+- [Frost Thee](https://pozitronic.itch.io/frost-thee) - 2nd Place - Our first game jam! Christmas theme top-down shooter. Save Santa and Christmas as a heroic snowman!
+- [Orbital Mechanic](https://alephlol.itch.io/orbital-mechanic) - 1st Place - A curvilinear platformer where you fix handsome satellites!
 <!--
 **mandomal/mandomal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
