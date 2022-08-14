@@ -10,8 +10,8 @@ Here are some of my projects:
 - [Monte Carlo Simulations for Electron Ionization in the Atmosphere](https://github.com/mandomal-coursework/monte-carlo-final-project) - An interesting statistical modeling project that demonstrates some interesting properties of the atmosphere, starting with a few simple rules!
 
 ### Game Jam Competitions:
-- [Frost Thee](https://pozitronic.itch.io/frost-thee) - 2nd Place - Our first game jam! Christmas theme top-down shooter. Save Santa and Christmas as a heroic snowman!
-- [Orbital Mechanic](https://alephlol.itch.io/orbital-mechanic) - 1st Place - A curvilinear platformer where you fix handsome satellites!
+- [Frost Thee](https://pozitronic.itch.io/frost-thee) - 2nd Place - My first game jam! Christmas theme top-down shooter. Save Santa and Christmas as a heroic snowman! I helped design shooting mechanics, worked on UI, and program flow.
+- [Orbital Mechanic](https://alephlol.itch.io/orbital-mechanic) - 1st Place - A curvilinear platformer where you fix handsome satellites! I designed the curvilinear platforming mechanics, UI, and program flow.
 
 
 ### Publications:
