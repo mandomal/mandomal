@@ -26,7 +26,8 @@ Maldonado, A. A., L. Chen, S. G. Claudepierre, J. Bortnik, R. M. Thorne, and H. 
 - **On the diffusion rates of electron bounce resonant scattering by magnetosonic waves**
 Maldonado, A. A., L. Chen (2018), Geophysical Research Letters. [doi:10.1002/2017GL076560](https://doi.org/10.1002/2017GL076560)
 
-
+### Dissertation:
+[THE INTERACTION OF FAST MAGNETOSONIC WAVES WITH ENERGETIC ELECTRONS IN THE VAN ALLEN RADIATION BELTS](https://utd-ir.tdl.org/bitstream/handle/10735.1/6434/ETD-5608-032-MALDONADO-9427.13.pdf)
 
 <!--
 **mandomal/mandomal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
