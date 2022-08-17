@@ -7,7 +7,7 @@ I'm a Physicist that used to specialized in magnetosphere physics, a field in sp
 Here are some of my projects:
 
 ### Academic Course Projects:
-- [Monte Carlo Simulations for Electron Ionization in the Atmosphere](https://github.com/mandomal-coursework/monte-carlo-final-project) - An interesting statistical modeling project that demonstrates some interesting properties of the atmosphere, starting with a few simple rules!
+- [Monte Carlo Simulations for Electron Ionization in the Atmosphere](https://github.com/mandomal-coursework/monte-carlo-final-project) - A statistical modeling project that demonstrates some interesting properties of the atmosphere, starting with a few simple rules!
 
 ### Game Jam Competitions:
 - [Frost Thee](https://pozitronic.itch.io/frost-thee) - 2nd Place - My first game jam! Christmas theme top-down shooter. Save Santa and Christmas as a heroic snowman! I helped design shooting mechanics, worked on UI, and program flow.
