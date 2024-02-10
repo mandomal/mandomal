@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I'm a Physicist that used to specialized in magnetosphere physics, a field in space sciences/astronomy. Now, I look to other projects in the form of machine learning, simulations, and even video game development!
 
 ---
